@@ -1,2 +1,8 @@
-print('Hello World!')
+
+classMyFirstProgram
+{
+        publicstaticvoid main(String args[]) {
+            system.out.print("Hello World");
+      }
+  }
     
